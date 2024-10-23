@@ -49,6 +49,12 @@ header a {
   background-color: white;
   text-decoration: none;
 }
+
+footer {
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
+    url("../images/city-of-rome.png");
+}
 @media (max-width: 900px) {
   header {
     padding: 60px 0;
